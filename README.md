@@ -1,3 +1,4 @@
+<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
  <h1 align="center">Hi 👋, I'm Muhammad Hammad Nazir</h1>
 
 - 🔭 I’m currently working on Artifical Intelligence
