@@ -1,6 +1,7 @@
-<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
  <h1 align="center">Hi 👋, I'm Muhammad Hammad Nazir</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HammadNazir048&label=Profile%20views&color=0e75b6&style=flat" alt="HammadNazir048" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HammadNazir048" alt="HammadNazir048" /></a> </p>
 - 🔭 I’m currently working on Artifical Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me anything about Machine Learning
